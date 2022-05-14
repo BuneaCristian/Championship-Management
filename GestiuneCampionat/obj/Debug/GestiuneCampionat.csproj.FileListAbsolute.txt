@@ -1,0 +1,112 @@
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.config
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\bin\Debug\GestiuneCampionat.pdb
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\obj\Debug\GestiuneCampionat.csprojAssemblyReference.cache
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\obj\Debug\GestiuneCampionat.Properties.Resources.resources
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.GenerateResource.cache
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.CoreCompileInputs.cache
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\obj\Debug\GestiuneCampionat.pdb
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\obj\Debug\GestiuneCampionat.Form1.resources
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\bin\Debug\DateCampionat.mdf
+D:\proiecte_csharp\GestiuneCampionat\GestiuneCampionat\bin\Debug\DateCampionat_log.ldf
+D:\proiecte_csharp\GestiuneCampionat_v2\GestiuneCampionat\bin\Debug\DateCampionat.mdf
+D:\proiecte_csharp\GestiuneCampionat_v2\GestiuneCampionat\bin\Debug\DateCampionat_log.ldf
+D:\proiecte_csharp\GestiuneCampionat_v2\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.config
+D:\proiecte_csharp\GestiuneCampionat_v2\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe
+D:\proiecte_csharp\GestiuneCampionat_v2\GestiuneCampionat\bin\Debug\GestiuneCampionat.pdb
+D:\proiecte_csharp\GestiuneCampionat_v2\GestiuneCampionat\obj\Debug\GestiuneCampionat.Form1.resources
+D:\proiecte_csharp\GestiuneCampionat_v2\GestiuneCampionat\obj\Debug\GestiuneCampionat.Properties.Resources.resources
+D:\proiecte_csharp\GestiuneCampionat_v2\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.GenerateResource.cache
+D:\proiecte_csharp\GestiuneCampionat_v2\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.CoreCompileInputs.cache
+D:\proiecte_csharp\GestiuneCampionat_v2\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe
+D:\proiecte_csharp\GestiuneCampionat_v2\GestiuneCampionat\obj\Debug\GestiuneCampionat.pdb
+D:\proiecte_csharp\GestiuneCampionat_v4\GestiuneCampionat\bin\Debug\DateCampionat.mdf
+D:\proiecte_csharp\GestiuneCampionat_v4\GestiuneCampionat\bin\Debug\DateCampionat_log.ldf
+D:\proiecte_csharp\GestiuneCampionat_v4\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.config
+D:\proiecte_csharp\GestiuneCampionat_v4\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe
+D:\proiecte_csharp\GestiuneCampionat_v4\GestiuneCampionat\bin\Debug\GestiuneCampionat.pdb
+D:\proiecte_csharp\GestiuneCampionat_v4\GestiuneCampionat\obj\Debug\GestiuneCampionat.Form1.resources
+D:\proiecte_csharp\GestiuneCampionat_v4\GestiuneCampionat\obj\Debug\GestiuneCampionat.Properties.Resources.resources
+D:\proiecte_csharp\GestiuneCampionat_v4\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.GenerateResource.cache
+D:\proiecte_csharp\GestiuneCampionat_v4\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.CoreCompileInputs.cache
+D:\proiecte_csharp\GestiuneCampionat_v4\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe
+D:\proiecte_csharp\GestiuneCampionat_v4\GestiuneCampionat\obj\Debug\GestiuneCampionat.pdb
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\bin\Debug\DateCampionat.mdf
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\bin\Debug\DateCampionat_log.ldf
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.config
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\bin\Debug\GestiuneCampionat.pdb
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\obj\Debug\GestiuneCampionat.Form1.resources
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\obj\Debug\GestiuneCampionat.Properties.Resources.resources
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.GenerateResource.cache
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.CoreCompileInputs.cache
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\obj\Debug\GestiuneCampionat.pdb
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.manifest
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\bin\Debug\GestiuneCampionat.application
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\obj\Debug\GestiuneCampionat.csprojAssemblyReference.cache
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe.manifest
+D:\proiecte_csharp\GestiuneCampionat_v6\GestiuneCampionat\obj\Debug\GestiuneCampionat.application
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\DateCampionat.mdf
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\DateCampionat_log.ldf
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.config
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.manifest
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\GestiuneCampionat.application
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\GestiuneCampionat.pdb
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.Form1.resources
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.Properties.Resources.resources
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.GenerateResource.cache
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.CoreCompileInputs.cache
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe.manifest
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.application
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.pdb
+D:\proiecte_csharp\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.csprojAssemblyReference.cache
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\DateCampionat.mdf
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\DateCampionat_log.ldf
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.config
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.manifest
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\GestiuneCampionat.application
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\bin\Debug\GestiuneCampionat.pdb
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.csprojAssemblyReference.cache
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.Form1.resources
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.Properties.Resources.resources
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.GenerateResource.cache
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe.manifest
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.application
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe
+D:\Programe\Atestat_info_2020\GestiuneCampionat_final\GestiuneCampionat\obj\Debug\GestiuneCampionat.pdb
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\DateCampionat.mdf
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\DateCampionat_log.ldf
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.config
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.manifest
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\GestiuneCampionat.application
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\GestiuneCampionat.pdb
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.csprojAssemblyReference.cache
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.Form1.resources
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.GenerateResource.cache
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe.manifest
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.application
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe
+C:\Users\Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.pdb
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\DateCampionat.mdf
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\DateCampionat_log.ldf
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.config
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe.manifest
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\GestiuneCampionat.application
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\GestiuneCampionat.exe
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\bin\Debug\GestiuneCampionat.pdb
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.csprojAssemblyReference.cache
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.Form1.resources
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.Properties.Resources.resources
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.GenerateResource.cache
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.csproj.CoreCompileInputs.cache
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe.manifest
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.application
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.exe
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Debug\GestiuneCampionat.pdb

@@ -1,0 +1,6 @@
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Release\GestiuneCampionat.Form1.resources
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Release\GestiuneCampionat.Properties.Resources.resources
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Release\GestiuneCampionat.csproj.GenerateResource.cache
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Release\GestiuneCampionat.csproj.CoreCompileInputs.cache
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Release\GestiuneCampionat.exe
+D:\salvari Cristian\Desktop\Atestat Informatica 2020 - Bunea-Domsa Cristian-Andrei\GestiuneCampionat_Bunea-Domsa Cristian-Andrei\GestiuneCampionat\obj\Release\GestiuneCampionat.pdb
